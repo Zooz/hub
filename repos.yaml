@@ -83,35 +83,35 @@ repositories:
 - name: flagger
   url: https://flagger.app
   maintainers:
-  - email: stefan.prodan@gmail.com
-    name: Stefan Prodan
+    - email: stefan.prodan@gmail.com
+      name: Stefan Prodan
 - name: zammad
   url: https://zammad.github.io
   maintainers:
-  - email: monotek23@gmail.com
-    name: André Bauer
+    - email: monotek23@gmail.com
+      name: André Bauer
 - name: agones
   url: https://agones.dev/chart/stable
   maintainers:
-  - email: agones-discuss@googlegroups.com
-    name: agones
+    - email: agones-discuss@googlegroups.com
+      name: agones
 - name: banzaicloud-stable
   url: http://kubernetes-charts.banzaicloud.com/branch/master
   maintainers:
-  - name: Banzai Cloud
-    email: info@banzaicloud.com
+    - name: Banzai Cloud
+      email: info@banzaicloud.com
 - name: kiwigrid
   url: https://kiwigrid.github.io
   maintainers:
-  - email: andre.bauer@kiwigrid.com
-    name: André Bauer
-  - email: axel.koehler@kiwigrid.com
-    name: Axel Koehler
+    - email: andre.bauer@kiwigrid.com
+      name: André Bauer
+    - email: axel.koehler@kiwigrid.com
+      name: Axel Koehler
 - name: elastic
   url: https://helm.elastic.co
   maintainers:
-  - email: helm-charts@elastic.co
-    name: Elastic
+    - email: helm-charts@elastic.co
+      name: Elastic
 - name: openfaas
   url: https://openfaas.github.io/faas-netes
   maintainers:
@@ -129,13 +129,13 @@ repositories:
 - name: soluto
   url: https://charts.soluto.io
   maintainers:
-  - email: charts-maintainers@soluto.com
-    name: Soluto
+    - email: charts-maintainers@soluto.com
+      name: Soluto
 - name: hephy
   url: https://charts.teamhephy.com
   maintainers:
-  - name: Team Hephy
-    email: team@teamhephy.com
+    - name: Team Hephy
+      email: team@teamhephy.com
 - name: gabibbo97
   url: https://gabibbo97.github.io/charts/
   maintainers:
@@ -166,10 +166,12 @@ repositories:
   url: https://ceph.github.io/csi-charts
   maintainers:
     - email: ceph-devel@vger.kernel.org
+      name: Ceph Developers
 - name: reactiveops-stable
   url: https://charts.reactiveops.com/stable
   maintainers:
     - email: chart-maintainers@reactiveops.com
+      name: Chart Maintainers
 - name: yourls
   url: https://charts.yourls.org
   maintainers:
@@ -179,5 +181,8 @@ repositories:
   url: https://hazelcast.github.io/charts/
   maintainers:
     - email: rafal@hazelcast.com
+      name: rafal
     - email: guglielmo@hazelcast.com
+      name: guglielmo
     - email: mesut@hazelcast.com
+      name: mesut
